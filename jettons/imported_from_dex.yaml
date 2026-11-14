@@ -235,9 +235,6 @@
 - address: 0:f92c8626cf30cc0d73e45de3b8f18aa3dd8efa5a22e815c324b8fcf82a9b4f41
   name: Big Catch
   symbol: CATCH
-- address: 0:0e2c63951abd73ec97b7b67fb57ca1085e65184ddba1da19d8cf106687316a0e
-  name: Catchain 2.0
-  symbol: CATCHAIN
 - address: 0:fe72f474373e97032441bdb873f9a6d3ad10bab08e6dbc7befa5e42b695f5400
   name: Catizen
   symbol: CATI
@@ -249,9 +246,6 @@
   symbol: CAVI
 - address: 0:697c3e6ae1a1601d4d7b2af34f37f3f440ecb8d4c3888f64f0197d1b6c0cf8e0
   name: Communist Cat
-  symbol: CCAT
-- address: 0:49282f3b4af7f031a3a564d64458fa5891d6965de485f7bcd50b2d03b5248884
-  name: Clown cat coin
   symbol: CCAT
 - address: 0:a5d12e31be87867851a28d3ce271203c8fa1a28ae826256e73c506d94d49edad
   name: swap.coffee
@@ -439,9 +433,6 @@
 - address: 0:c20231f183249c50f4be026ff69c01fb0b95d63387dcd97f5d5725a91601d71b
   name: EggsWisdom
   symbol: EGG
-- address: 0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f
-  name: EGOR ZHGUN
-  symbol: EGOR
 - address: 0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184
   name: eTON NFT
   symbol: ENFT
@@ -580,9 +571,6 @@
 - address: 0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb
   name: GRAMX6900
   symbol: GRX6900
-- address: 0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83
-  name: Gram super cycle
-  symbol: GSC
 - address: 0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2
   name: Gold Standard
   symbol: GSTD
@@ -1312,6 +1300,9 @@
 - address: 0:715de91762ac613a8864307e6aaa9626777f4ed98604925be097618826c1badb
   name: TeleBTC
   symbol: TELEBTC
+- address: 0:2654edbe01d5e180fdcb2bdc04a6a4f3fdff83e383521aca37a8a536ac1681bc
+  name: Telecat
+  symbol: TELECAT
 - address: 0:26f87ef64ba34c68edca10fee31573e7ba9b203b4b3e9a080e296f3d974f7c94
   name: telegram.dog
   symbol: TELEDOG
@@ -1448,9 +1439,6 @@
 - address: 0:75eaf886eac262deb45aac0ed385e1a3101ce2e69565c0895cdf47ef37799226
   name: TON REX
   symbol: TREX
-- address: 0:9c5cac181820999f3423f6fc3083c63e17777c1fb728c3e330823f294c5aee05
-  name: Tribe
-  symbol: TRIBE
 - address: 0:deeae17163fd6b5a91b02472ef2cd159d09fd89a6b1500c13d5c886a3748b665
   name: Part Time Troll
   symbol: TROLL
@@ -1481,6 +1469,9 @@
 - address: 0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55
   name: Twister The Dog
   symbol: TWIDO
+- address: 0:27990dea2b2783da432d958f072a5f7334d35b877b9a0f24a23fabab7d573201
+  name: Tower game token
+  symbol: TWR
 - address: 0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b
   name: Tvorog
   symbol: TYS
@@ -1631,9 +1622,6 @@
 - address: 0:519b0b875dab7c0623a09246ab0a4ec7b9c4418dcc8e6fc79fc0eb93e3909e72
   name: Meme Inc
   symbol: YOBA
-- address: 0:3a57058743ad1ec66be42e78d82e0cb94247b85f494acf99f9d7a2672fcc8b12
-  name: YOLKY the EGG
-  symbol: YOLKY
 - address: 0:a7658ce69ae845b6d34492b51937d3621e1b2a6c1208c72633856d6c255b1901
   name: The Reversed Livaz
   symbol: ZAVIL
